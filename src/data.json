@@ -1,0 +1,220 @@
+{
+  "Elephant": {
+    "vitesse_kmh": 40,
+    "poids_kg": 6000,
+    "force_kg": 6320,
+    "neurones_corticaux": 5600000000,
+    "taille_cm": 500
+  },
+  "Tigre": {
+    "vitesse_kmh": 65,
+    "poids_kg": 250,
+    "force_kg": 750,
+    "neurones_corticaux": 500000000,
+    "taille_cm": 280
+  },
+  "Lion": {
+    "vitesse_kmh": 80,
+    "poids_kg": 200,
+    "force_kg": 570,
+    "neurones_corticaux": 545000000,
+    "taille_cm": 200
+  },
+  "Chien": {
+    "vitesse_kmh": 40,
+    "poids_kg": 20,
+    "force_kg": 30,
+    "neurones_corticaux": 530000000,
+    "taille_cm": 90
+  },
+  "Chat": {
+    "vitesse_kmh": 48,
+    "poids_kg": 4.25,
+    "force_kg": 11,
+    "neurones_corticaux": 250000000,
+    "taille_cm": 45
+  },
+  "Gorille": {
+    "vitesse_kmh": 40,
+    "poids_kg": 170,
+    "force_kg": 816,
+    "neurones_corticaux": 9100000000,
+    "taille_cm": 180
+  },
+  "Ours polaire": {
+    "vitesse_kmh": 40,
+    "poids_kg": 500,
+    "force_kg": 1000,
+    "neurones_corticaux": 440000000,
+    "taille_cm": 240
+  },
+  "Humain": {
+    "vitesse_kmh": 25,
+    "poids_kg": 75,
+    "force_kg": 80,
+    "neurones_corticaux": 16300000000,
+    "taille_cm": 170
+  },
+  "Hippopotame": {
+    "vitesse_kmh": 30,
+    "poids_kg": 2250,
+    "force_kg": 2000,
+    "neurones_corticaux": 2700000000,
+    "taille_cm": 400
+  },
+  "Vache": {
+    "vitesse_kmh": 25,
+    "poids_kg": 700,
+    "force_kg": 1000,
+    "neurones_corticaux": 307000000,
+    "taille_cm": 250
+  },
+  "Souris": {
+    "vitesse_kmh": 13,
+    "poids_kg": 0.025,
+    "force_kg": 0.150,
+    "neurones_corticaux": 14000000,
+    "taille_cm": 8
+  },
+  "Guepard": {
+    "vitesse_kmh": 110,
+    "poids_kg": 50,
+    "force_kg": 50,
+    "neurones_corticaux": 450000000,
+    "taille_cm": 150
+  },
+  "Elan": {
+    "vitesse_kmh": 55,
+    "poids_kg": 600,
+    "force_kg": 900,
+    "neurones_corticaux": 450000000,
+    "taille_cm": 300
+  },
+  "Glouton": {
+    "vitesse_kmh": 48,
+    "poids_kg": 15,
+    "force_kg": 60,
+    "neurones_corticaux": 150000000,
+    "taille_cm": 100
+  },
+  "Requin blanc": {
+    "vitesse_kmh": 50,
+    "poids_kg": 1100,
+    "force_kg": 2200,
+    "neurones_corticaux": 70000000,
+    "taille_cm": 500
+  },
+  "Orque": {
+    "vitesse_kmh": 56,
+    "poids_kg": 6000,
+    "force_kg": 10000,
+    "neurones_corticaux": 43000000000,
+    "taille_cm": 800
+  },
+  "Calamar Geant": {
+    "vitesse_kmh": 30,
+    "poids_kg": 450,
+    "force_kg": 500,
+    "neurones_corticaux": 500000000,
+    "taille_cm": 1250
+  },
+  "Espadon voilier": {
+    "vitesse_kmh": 110,
+    "poids_kg": 60,
+    "force_kg": 120,
+    "neurones_corticaux": 50000000,
+    "taille_cm": 21000000
+  },
+  "Autruche": {
+    "vitesse_kmh": 70,
+    "poids_kg": 120,
+    "force_kg": 150,
+    "neurones_corticaux": 250000000,
+    "taille_cm": 250
+  },
+  "Faucon pelerin": {
+    "vitesse_kmh": 320,
+    "poids_kg": 1,
+    "force_kg": 1.5,
+    "neurones_corticaux": 250000000,
+    "taille_cm": 20
+  },
+  "Corbeau": {
+    "vitesse_kmh": 70,
+    "poids_kg": 1.2,
+    "force_kg": 1.5,
+    "neurones_corticaux": 580000000,
+    "taille_cm": 30
+  },
+  "Pigeon": {
+    "vitesse_kmh": 60,
+    "poids_kg": 0.48,
+    "force_kg": 0.15,
+    "neurones_corticaux": 191000000,
+    "taille_cm": 20
+  },
+  "Bec-en-sabot": {
+    "vitesse_kmh": 35,
+    "poids_kg": 5.5,
+    "force_kg": 8,
+    "neurones_corticaux": 270000000,
+    "taille_cm": 120
+  },
+  "Poule": {
+    "vitesse_kmh": 14,
+    "poids_kg": 2.5,
+    "force_kg": 3.5,
+    "neurones_corticaux": 221000000,
+    "taille_cm": 40
+  },
+  "Rouge gorge": {
+    "vitesse_kmh": 35,
+    "poids_kg": 0.02,
+    "force_kg": 0.03,
+    "neurones_corticaux": 140000000,
+    "taille_cm": 10
+  },
+  "Mamba noir": {
+    "vitesse_kmh": 19,
+    "poids_kg": 1.6,
+    "force_kg": 2,
+    "neurones_corticaux": 6000000,
+    "taille_cm": 325
+  },
+  "Crocodile": {
+    "vitesse_kmh": 17,
+    "poids_kg": 500,
+    "force_kg": 1000,
+    "neurones_corticaux": 85000000,
+    "taille_cm": 500
+  },
+  "Tortue alligator": {
+    "vitesse_kmh": 1.5,
+    "poids_kg": 80,
+    "force_kg": 100,
+    "neurones_corticaux": 15000000,
+    "taille_cm": 80
+  },
+  "Dragon du komodo": {
+    "vitesse_kmh": 20,
+    "poids_kg": 70,
+    "force_kg": 110,
+    "neurones_corticaux": 25000000,
+    "taille_cm": 260
+  },
+  "Lezard a collerette": {
+    "vitesse_kmh": 25,
+    "poids_kg": 0.6,
+    "force_kg": 0.8,
+    "neurones_corticaux": 5000000,
+    "taille_cm": 90
+  },
+  "Alligator d'Amerique": {
+    "vitesse_kmh": 15,
+    "poids_kg": 360,
+    "force_kg": 700,
+    "neurones_corticaux": 70000000,
+    "taille_cm": 400 
+  }
+}
+  
